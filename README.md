@@ -14,7 +14,7 @@
 I am an AI Developer and Cybersecurity graduate student with a passion for building intelligent Python-based systems. My work sits at the intersection of **machine learning**, **natural language processing**, and **security engineering**.
 
 - 🎓 MSc Cybersecurity & Network Security — LSBR London (online)
-- 🌍 Based in Poznań, Poland
+- 🌍 Based in Warsaw, Poland
 - 💼 Open to AI/ML Engineer and Security AI roles
 - 📫 [github.com/remi147](https://github.com/remi147)
 
